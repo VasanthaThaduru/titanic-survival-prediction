@@ -1,5 +1,7 @@
 # titanic-survival-prediction
-A machine learning project predicting Titanic passenger survival using Python, Pandas, and Scikit-learn.This is my first project
+A machine learning project predicting Titanic passenger survival using Python, Pandas, and Scikit-learn.This is my first project which shows 80% accuracy
+
+
 🚢 Titanic Survival Prediction
 
 This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
@@ -10,7 +12,7 @@ Built with Python and Scikit-learn
 
 Preprocessed the dataset (handling missing values, encoding categorical data, scaling)
 
-Trained models like Logistic Regression, Random Forest, and Decision Tree
+Trained data using Logistic Regression model
 
 Evaluated models with accuracy & confusion matrix
 
